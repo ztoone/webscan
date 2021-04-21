@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-21T02:34:08.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="wYDRXNaJO8ylkvd05S27" version="14.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-21T02:37:41.280Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="9DacnVUy7MNP_TPgUgou" version="14.5.1" type="github">
   <diagram id="RpdmwxyfP1reaGXZ1F0F" name="Page-1">
     <mxGraphModel dx="782" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,6 +105,9 @@
             <mxPoint x="430" y="350" as="sourcePoint" />
             <mxPoint x="480" y="300" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="I2LBtwbnVFgsr5M465V7-35" value="漏扫报表引擎" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="320" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
