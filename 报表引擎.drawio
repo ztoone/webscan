@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2021-04-20T07:15:43.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" version="14.5.1" etag="UiR0dpyIwgq60_um71wR" type="github"><diagram id="RpdmwxyfP1reaGXZ1F0F">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-21T02:28:03.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="f4ClKss6Dg8DHQowM4o2" version="14.5.1" type="github">
+  <diagram id="RpdmwxyfP1reaGXZ1F0F" name="Page-1">
+    <mxGraphModel dx="782" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I2LBtwbnVFgsr5M465V7-1" value="漏扫系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I2LBtwbnVFgsr5M465V7-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="50" width="410" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="I2LBtwbnVFgsr5M465V7-3" value="控制中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="61" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I2LBtwbnVFgsr5M465V7-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="140" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="I2LBtwbnVFgsr5M465V7-5" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.378;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="I2LBtwbnVFgsr5M465V7-1" target="I2LBtwbnVFgsr5M465V7-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="120" as="sourcePoint" />
+            <mxPoint x="250" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2LBtwbnVFgsr5M465V7-7" value="HOST解析器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="61" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I2LBtwbnVFgsr5M465V7-8" value="报表任务生成中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="61" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I2LBtwbnVFgsr5M465V7-10" value="HOST缓冲区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2LBtwbnVFgsr5M465V7-16" value="任务注册中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2LBtwbnVFgsr5M465V7-17" value="报表生成器缓冲区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I2LBtwbnVFgsr5M465V7-19" value="进度缓冲区" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
